@@ -42,7 +42,7 @@ Manual and automated API testing has also been performed using **Postman**, and 
    allure serve allure-results
    ```
 ## Postman Documentation: 
-https://documenter.getpostman.com/view/24475549/2sB2qi9yKq
+[Documentation](https://documenter.getpostman.com/view/24475549/2sB2qi9yKq)
 
 
 ---

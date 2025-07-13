@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Dmoney API automation">
+    <test name="Admin login and User Create">
+        <classes>
+            <class name="testRunner.UserTestRunner"></class>
+        </classes>
+    </test>
+    <test name="Transaction">
+        <classes>
+            <class name="testRunner.TransactionTestRunner"></class>
+        </classes>
+    </test>
+    <test name="Search user">
+        <classes>
+            <class name="testRunner.UserSearchTestRunner"></class>
+        </classes>
+    </test>
+    <test name="Check User Balance">
+        <classes>
+            <class name="testRunner.UserBalanceCheckTestRunner"></class>
+        </classes>
+    </test>
+</suite>

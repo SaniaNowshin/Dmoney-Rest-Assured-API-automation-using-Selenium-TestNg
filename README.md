@@ -23,7 +23,6 @@ Manual and automated API testing has also been performed using **Postman**, and 
 * **Test Framework**: TestNG
 * **Build Tool**: Gradle
 * **Design Pattern**: Page Object Model (POM)
-* **Data Files**: `users.json`, `user.csv`
 * **End-to-end API test scenarios using** Rest Assured
 * **Manual & automated API testing using** Postman
 
